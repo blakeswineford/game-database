@@ -11,7 +11,7 @@ interface Props {
 // Destructure the Props interface here and pass the game object as a prop
 const GameCard = ({ game }: Props) => {
   return (
-    <Card borderRadius={10} overflow="hidden">
+    <Card width="300px" borderRadius={10} overflow="hidden">
       <Image src={getCroppedImageUrl(game.background_image)} />
       <CardBody>
         <Heading fontSize="1xl">{game.name}</Heading>
