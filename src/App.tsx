@@ -21,6 +21,7 @@ function App() {
     genre: null,
     platform: null,
     sortOrder: "",
+    searchText: "",
   });
 
   return (

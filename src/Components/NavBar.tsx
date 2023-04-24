@@ -3,7 +3,7 @@ import logo from "../assets/lsso.webp";
 import ColorModeSwitch from "./ColorModeSwitch";
 import SearchInput from "./SearchInput";
 
-interface Prop {
+interface Props {
   onSearch: (searchText: string) => void;
 }
 
