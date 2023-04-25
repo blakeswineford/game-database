@@ -1,6 +1,7 @@
 # Game Database
 
-A game discovery web app where you can search for games by platform, genre, etc. and see the critic ratings pulled from Metacritic.  
+A game discovery web app where you can search for games by platform, genre, etc. and see the critic ratings pulled from Metacritic.
+This projct can be found here: https://game-database-five.vercel.app/  
 
 ## Getting Started
 
